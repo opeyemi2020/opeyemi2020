@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @opeyemi2020
+- 👋 Hi, I’m Qomarudeen
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Python programming
 
